@@ -6,18 +6,8 @@ html, body {
 }
 
 #headshot {
-  width: 5%;
+  width: 60px;
   height: auto;
-  float:left;
-  margin-right: 30px;
-}
-
-#name {
-  float: left;
-}
-
-#contact {
-  float: right;
   margin-right: 30px;
 }
 
@@ -43,12 +33,22 @@ section {
 }
 
 #idealjob {
-  width: 15%;
+  width: 10%;
   height: auto;
 }
 
 #test1 {
-  width: 15%;
+  width: 25%;
+  height: auto;
+}
+
+#test2 {
+  width: 5%;
+  height: auto;
+}
+
+#test3 {
+  width: 5%;
   height: auto;
 }
 
