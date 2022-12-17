@@ -1,27 +1,53 @@
 html, body {
-  background: #0B132B;
+  background: #8DA9C4;
   font-family: helvetica, arial, sans-serif;
   font-size: 16px;
-  color: #50AAA9;
+  color: #2F83E2;
+}
+
+#headshot {
+  width: 15%;
+  float:left;
+  margin-right: 30px;
+}
+
+#name {
+  float: left;
 }
 
 p {
   font-size: 1em;
   line-height: 1.4em;
   margin-bottom: 20px;
-  color: #709CD1;
+  color: #2a9d8f;
 }
 
 
 #mainarea {
 	width: 90%;
 	max-width: 800px;
-	background: #1C2541;
+	background: #0B2545;
 	margin: 30px auto;
   padding: 30px;
 }
 
 section {
-	border-top: 1px solid #5BC0BE;
+	border-top: 1px solid #2F83E2;
 	padding: 20px 0 0;
+}
+
+#idealjob {
+  width: 40%;
+}
+
+#test1 {
+  width: 40%;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
 }
