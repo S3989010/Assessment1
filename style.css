@@ -6,7 +6,7 @@ html, body {
 }
 
 #headshot {
-  width: 15%;
+  width: 5%;
   height: auto;
   float:left;
   margin-right: 30px;
@@ -43,12 +43,12 @@ section {
 }
 
 #idealjob {
-  width: 40%;
+  width: 15%;
   height: auto;
 }
 
 #test1 {
-  width: 40%;
+  width: 15%;
   height: auto;
 }
 
