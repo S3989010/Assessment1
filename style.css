@@ -7,12 +7,18 @@ html, body {
 
 #headshot {
   width: 15%;
+  height: auto;
   float:left;
   margin-right: 30px;
 }
 
 #name {
   float: left;
+}
+
+#contact {
+  float: right;
+  margin-right: 30px;
 }
 
 p {
@@ -38,10 +44,12 @@ section {
 
 #idealjob {
   width: 40%;
+  height: auto;
 }
 
 #test1 {
   width: 40%;
+  height: auto;
 }
 
 h1 {
