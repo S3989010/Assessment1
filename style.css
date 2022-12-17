@@ -5,8 +5,8 @@ html, body {
   color: #2F83E2;
 }
 
-#headshot {
-  width: 30px;
+#headshot img {
+  width: 15%;
   height: auto;
   margin-right: 30px;
 }
@@ -32,23 +32,23 @@ section {
 	padding: 20px 0 0;
 }
 
-#idealjob {
-  width: 10%;
+#idealjob img {
+  width: 20%;
   height: auto;
 }
 
-#test1 {
-  width: 25%;
+#test1 img {
+  width: 20%;
   height: auto;
 }
 
-#test2 {
-  width: 5%;
+#test2 img {
+  width: 15%;
   height: auto;
 }
 
-#test3 {
-  width: 5%;
+#test3 img {
+  width: 15%;
   height: auto;
 }
 
